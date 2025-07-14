@@ -1,0 +1,49 @@
+﻿  sodoku.cpp
+D:\Game\Sudoku Game\game\game\sodoku.cpp(419,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\Game\Sudoku Game\game\game\sodoku.cpp(454,38): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+D:\Game\Sudoku Game\game\game\sodoku.cpp(454,38): warning C4244:         with
+D:\Game\Sudoku Game\game\game\sodoku.cpp(454,38): warning C4244:         [
+D:\Game\Sudoku Game\game\game\sodoku.cpp(454,38): warning C4244:             T=float
+D:\Game\Sudoku Game\game\game\sodoku.cpp(454,38): warning C4244:         ]
+D:\Game\Sudoku Game\game\game\sodoku.cpp(455,45): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+D:\Game\Sudoku Game\game\game\sodoku.cpp(455,45): warning C4244:         with
+D:\Game\Sudoku Game\game\game\sodoku.cpp(455,45): warning C4244:         [
+D:\Game\Sudoku Game\game\game\sodoku.cpp(455,45): warning C4244:             T=float
+D:\Game\Sudoku Game\game\game\sodoku.cpp(455,45): warning C4244:         ]
+D:\Game\Sudoku Game\game\game\sodoku.cpp(455,38): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+D:\Game\Sudoku Game\game\game\sodoku.cpp(455,38): warning C4244:         with
+D:\Game\Sudoku Game\game\game\sodoku.cpp(455,38): warning C4244:         [
+D:\Game\Sudoku Game\game\game\sodoku.cpp(455,38): warning C4244:             T=float
+D:\Game\Sudoku Game\game\game\sodoku.cpp(455,38): warning C4244:         ]
+D:\Game\Sudoku Game\game\game\sodoku.cpp(462,43): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+D:\Game\Sudoku Game\game\game\sodoku.cpp(462,43): warning C4244:         with
+D:\Game\Sudoku Game\game\game\sodoku.cpp(462,43): warning C4244:         [
+D:\Game\Sudoku Game\game\game\sodoku.cpp(462,43): warning C4244:             T=float
+D:\Game\Sudoku Game\game\game\sodoku.cpp(462,43): warning C4244:         ]
+D:\Game\Sudoku Game\game\game\sodoku.cpp(463,55): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+D:\Game\Sudoku Game\game\game\sodoku.cpp(463,55): warning C4244:         with
+D:\Game\Sudoku Game\game\game\sodoku.cpp(463,55): warning C4244:         [
+D:\Game\Sudoku Game\game\game\sodoku.cpp(463,55): warning C4244:             T=float
+D:\Game\Sudoku Game\game\game\sodoku.cpp(463,55): warning C4244:         ]
+D:\Game\Sudoku Game\game\game\sodoku.cpp(463,38): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+D:\Game\Sudoku Game\game\game\sodoku.cpp(463,38): warning C4244:         with
+D:\Game\Sudoku Game\game\game\sodoku.cpp(463,38): warning C4244:         [
+D:\Game\Sudoku Game\game\game\sodoku.cpp(463,38): warning C4244:             T=float
+D:\Game\Sudoku Game\game\game\sodoku.cpp(463,38): warning C4244:         ]
+D:\Game\Sudoku Game\game\game\sodoku.cpp(601,42): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+D:\Game\Sudoku Game\game\game\sodoku.cpp(601,42): warning C4244:         with
+D:\Game\Sudoku Game\game\game\sodoku.cpp(601,42): warning C4244:         [
+D:\Game\Sudoku Game\game\game\sodoku.cpp(601,42): warning C4244:             T=float
+D:\Game\Sudoku Game\game\game\sodoku.cpp(601,42): warning C4244:         ]
+D:\Game\Sudoku Game\game\game\sodoku.cpp(601,31): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+D:\Game\Sudoku Game\game\game\sodoku.cpp(601,31): warning C4244:         with
+D:\Game\Sudoku Game\game\game\sodoku.cpp(601,31): warning C4244:         [
+D:\Game\Sudoku Game\game\game\sodoku.cpp(601,31): warning C4244:             T=float
+D:\Game\Sudoku Game\game\game\sodoku.cpp(601,31): warning C4244:         ]
+D:\Game\Sudoku Game\game\game\sodoku.cpp(602,63): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Game\Sudoku Game\game\game\sodoku.cpp(602,31): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Game\Sudoku Game\game\game\sodoku.cpp(632,79): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Game\Sudoku Game\game\game\sodoku.cpp(632,51): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Game\Sudoku Game\game\game\sodoku.cpp(642,20): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Game\Sudoku Game\game\game\sodoku.cpp(702,21): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  game.vcxproj -> D:\Game\Sudoku Game\game\game\x64\Debug\game.exe
